@@ -1,0 +1,11 @@
+The currents employees & interns in our company are: 
+Name: Carlos  Email: carlos@gmail.com  Age: 20  Salary: 19999.0
+Name: Clarymar  Email: clary@gmail.com  Age: 19  Salary: 20000.0
+Name: Ortiz  Email: ortiz@gmail.com  Age: 19  Salary: 500.0
+Name: Luisito  Email: luis@gmail.com  Age: 19  Salary: 19999.0
+Name: Isoelis  Email: iso@gmail.com  Age: 25  Salary: 100001.0
+Name: Marie  Email: marie@gmail.com  Age: 25  Salary: 100000.0
+Name: Iris  Email: iris@gmail.com  Age: 42  Salary: 90000.0
+Name: Hugo  Email: hugo@gmail.com  Age: 45  Salary: 45000.0
+Name: Javier  Email: javier@gmail.com  Age: 46  Salary: 44000.0
+Name: Pito  Email: pito@gmail.com  Age: 48  Salary: 40000.0
